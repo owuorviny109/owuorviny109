@@ -134,16 +134,8 @@ I combine backend engineering, frontend UI/UX discipline, cloud architecture, an
 
 ---
 
-## ☕ Support My Work  
-If you enjoy my projects or find value in my content:
-
-👉 **Buy Me a Coffee:** https://buymeacoffee.com/yourhandle
-
----
-
 <p align="center">💡 *Always building. Always improving. Always shipping.*</p>
- ![oracle-ai-foundations](https://github.com/user-attachments/assets/74eb49bd-a9b3-464d-a775-0eef3bf39853)
-![oracle-foundations](https://github.com/user-attachments/assets/8d45f3f0-a4e2-47ff-b197-7603d64f5e5c)
+ 
 
 <!--
 **owuorviny109/owuorviny109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
