@@ -128,7 +128,6 @@ I combine backend engineering, frontend UI/UX discipline, cloud architecture, an
 
 - **Email:** owuorvincent069@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/owuor-vincent-38b2b02ba  
-- **GitHub:** https://github.com/owuorviny109  
 - **Portfolio:** https://owuorvincent.vercel.app  
 - **Credly:** https://www.credly.com/users/vincent-omondi.43720300
 
