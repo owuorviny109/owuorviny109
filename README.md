@@ -9,6 +9,14 @@
   <img src="./images/avatar.png" width="140" style="border-radius: 70px;" alt="Vincent's Avatar"/>
 </p>
 
+<!-- GitHub & Visitor Stats -->
+<p align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/owuorviny109/count.svg)
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=owuorviny109&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owuorviny109&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
 ---
 
 ## Ever Wondered What a Fresh, Growth-Oriented Mind Could Do for Your Team?
@@ -25,24 +33,9 @@ I bring a **growth mindset, security-first thinking, and a results-driven approa
 
 ---
 
-## See the Evidence: Certifications & Verified Achievements
+## See the Evidence: Verified Credentials
 
-I leverage certifications and badges as **proof of skills that deliver business results**, not just decorative accolades.
-
-### PDF Certificates with Verification
-
-| Certificate | PDF | Verification |
-|-------------|-----|--------------|
-| AWS 365 Data Science | [📄 Download PDF](./docs/certifications/pdf/AWS_365DataSciece.pdf) | [🔗 Credly](https://www.credly.com/users/vincent-omondi.43720300) |
-| IBM AI Foundations | [📄 Download PDF](./docs/certifications/pdf/IBM_AI_Foundations.pdf) | [🔗 Credly](https://www.credly.com/users/vincent-omondi.43720300) |
-| OCI AI Foundations | [📄 Download PDF](./docs/certifications/pdf/OCI_AI_Foundations.pdf) | [🔗 Credly](https://www.credly.com/users/vincent-omondi.43720300) |
-| OCI Foundations Associate | [📄 Download PDF](./docs/certifications/pdf/OCI_Foundations_Associate.pdf) | [🔗 Credly](https://www.credly.com/users/vincent-omondi.43720300) |
-
-### Key Digital Badge
-
-<p align="left">
-  [![AWS Cloud Practitioner](./docs/certifications/badges/AWS_Cloud_Practitoner.png)](https://www.credly.com/badges/ca9e9da2-a0d1-41db-a5aa-125aedea0779/public_url)
-</p>
+I leverage certifications as **proof of skills that deliver business results**, not just decorative accolades.  
 
 For a **full list of verified credentials**, see my [Credly profile](https://www.credly.com/users/vincent-omondi.43720300).
 
