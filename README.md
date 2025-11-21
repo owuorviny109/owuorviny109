@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./images/banner.png" width="100%" alt="profile banner"/>
+  <img src="./images/banner.png" width="100%" alt="Profile Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Vincent Omondi Owuor 👋</h1>
+<h1 align="center">Vincent Omondi Owuor</h1>
 <h3 align="center">AWS Certified Cloud Practitioner | Full-Stack Developer | Cloud-Native Engineer</h3>
 
 <p align="center">
@@ -11,142 +11,81 @@
 
 ---
 
-## 🚀 About Me
+## Ever Wondered What a Fresh, Growth-Oriented Mind Could Do for Your Team?
 
-I am a **cloud-native software engineer** specializing in:
-
-- **AWS Serverless Architecture** (Lambda, API Gateway, DynamoDB, S3, EC2)
-- **Scalable Full-Stack Applications** (React 19, TypeScript, ASP.NET MVC, Node.js)
-- **Production-grade Infrastructure** (Terraform IaC, CI/CD with GitHub Actions)
-- **Enterprise Software Development** (SQL Server, MySQL, multi-cloud deployments)
-
-I have delivered **real systems** with:
-
-- **99.9% uptime**  
-- **95+ Lighthouse scores**  
-- **1,000+ concurrent users**  
-- **Optimized queries and sub-2-second performance**  
-
-I combine backend engineering, frontend UI/UX discipline, cloud architecture, and DevOps automation into a single, reliable, production-ready workflow.
+I bring a **growth mindset, security-first thinking, and a results-driven approach** to every challenge. Every project, line of code, and architecture decision I make is **designed to deliver measurable business impact**. I thrive in environments where **innovation, learning, and business outcomes intersect**.
 
 ---
 
-## 🎯 Current Focus
+## Imagine a Candidate Who Can Deliver Results From Day One
 
-- Cloud-Native Engineering on AWS  
-- Serverless Systems & Event-Driven Architecture  
-- Frontend Architecture & Web Performance  
-- Fintech Integrations (M-Pesa Daraja, OAuth, secure APIs)  
-- High-availability infrastructure in AWS & Oracle Cloud  
+- **Business-focused engineering:** I don’t just build apps—I build solutions that drive efficiency, reduce costs, and support business goals.  
+- **Security embedded from the start:** AWS-native architectures, secure APIs, and cloud best practices are part of every design.  
+- **Rapid learning & adaptability:** Cloud-native, full-stack, and DevOps tools mastered with hands-on application, ready to apply immediately.  
 
 ---
 
-## 🏆 Professional Achievements
+## See the Evidence: Certifications & Verified Achievements
 
-- **AWS Certified Cloud Practitioner** (valid until 2028)  
-- **Oracle Cloud Foundations & AI Foundations Associate (2025)**  
-- Designed and deployed **multi-cloud architectures** (AWS + OCI)  
-- Built enterprise systems used by more than **1,000 active users**  
-- Team Lead/Scrum Master for an ERP development team  
-- Delivered **Terraform production 3-tier AWS architecture**  
-- Implemented **WCAG 2.2 AA accessibility** across apps  
-- Developed performant frontends with **React + TypeScript**  
+I leverage certifications and badges as **proof of skills that deliver business results**, not just decorative accolades.
 
----
+### PDF Certificates with Verification
 
-## 🔧 Technologies & Tools
+| Certificate | PDF | Verification |
+|-------------|-----|--------------|
+| AWS 365 Data Science | [📄 Download PDF](./docs/certifications/pdf/AWS_365DataSciece.pdf) | [🔗 Credly](https://www.credly.com/users/vincent-omondi.43720300) |
+| IBM AI Foundations | [📄 Download PDF](./docs/certifications/pdf/IBM_AI_Foundations.pdf) | [🔗 Credly](https://www.credly.com/users/vincent-omondi.43720300) |
+| OCI AI Foundations | [📄 Download PDF](./docs/certifications/pdf/OCI_AI_Foundations.pdf) | [🔗 Credly](https://www.credly.com/users/vincent-omondi.43720300) |
+| OCI Foundations Associate | [📄 Download PDF](./docs/certifications/pdf/OCI_Foundations_Associate.pdf) | [🔗 Credly](https://www.credly.com/users/vincent-omondi.43720300) |
 
-### **Cloud**
-`AWS` `Oracle Cloud` `EC2` `Lambda` `S3` `DynamoDB` `VPC` `RDS` `CloudWatch`
+### Key Digital Badge
 
-### **Frontend**
-`React 19` `Next.js` `TypeScript` `Tailwind CSS` `HTML5` `WCAG 2.2`
-
-### **Backend**
-`Node.js` `Express` `ASP.NET MVC` `C#` `Python` `REST APIs`
-
-### **Databases**
-`SQL Server` `MySQL` `MariaDB` `MongoDB` `DynamoDB`
-
-### **DevOps & Tools**
-`Terraform` `GitHub Actions` `Docker` `Linux` `Figma` `CI/CD` `Agile/Scrum`
-
----
-
-## 📂 Featured Projects
-
-### 🔹 **Terraform AWS 3-Tier Production Infrastructure**
-**Repo:** https://github.com/owuorviny109/terraform-aws-web-tier-infra  
-- Full production-ready 3-tier VPC architecture  
-- EC2 Auto-Scaling, RDS Multi-AZ, security groups, subnets  
-- Automated with Terraform IaC  
-- Enterprise-grade security & cost efficiency  
-
----
-
-### 🔹 **EduCore Academic Management System (ERP)**
-- Led 4-developer team as Scrum Master  
-- Built with ASP.NET MVC + SQL Server  
-- Supports **1,000+ concurrent institutional users**  
-- Optimized SQL queries for sub-2-second response time  
-
----
-
-### 🔹 **Serverless Payments API**
-- AWS Lambda + API Gateway + DynamoDB  
-- Event-driven architecture  
-- Integrates **M-Pesa STK Push** and OAuth securely  
-
----
-
-### 🔹 **React + TypeScript Production UI**
-- Built highly accessible, fast-loading UIs  
-- Achieved **95+ Lighthouse scores**  
-- WCAG-compliant components  
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owuorviny109&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owuorviny109&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<p align="left">
+  [![AWS Cloud Practitioner](./docs/certifications/badges/AWS_Cloud_Practitoner.png)](https://www.credly.com/badges/ca9e9da2-a0d1-41db-a5aa-125aedea0779/public_url)
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owuorviny109&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+For a **full list of verified credentials**, see my [Credly profile](https://www.credly.com/users/vincent-omondi.43720300).
 
 ---
 
-## 📄 My Resume
-📘 [**View Resume (PDF)**](./Vincent%20Omondi%20Owuor%20-%20Resume1.pdf)
+## Technologies & Tools I Use to Drive Impact
+
+- **Cloud-Native:** AWS Lambda, S3, EC2, DynamoDB, RDS, API Gateway  
+- **Full-Stack Development:** React 19, TypeScript, Next.js, ASP.NET MVC, Node.js  
+- **Automation & Infrastructure:** Terraform, CI/CD, Docker, Linux  
+- **Databases & Optimization:** SQL Server, MySQL, MongoDB, DynamoDB  
+- **Security & Accessibility:** Secure-by-default architectures, WCAG 2.2 AA UI compliance  
 
 ---
 
-## 📬 Connect With Me
+## Real-World Projects Demonstrating Business-Ready Skills
 
+**1. Terraform AWS 3-Tier Web Infrastructure**  
+*Repository:* [terraform-aws-web-tier-infra](https://github.com/owuorviny109/terraform-aws-web-tier-infra)  
+- Built a **highly available, secure, and scalable 3-tier architecture** using Terraform IaC.  
+- Delivered **faster deployment cycles** and **reductions in manual configuration errors**, directly supporting business continuity.  
+
+**2. AI Photo Gallery**  
+*Repository:* [ai-photo-gallery](https://github.com/owuorviny109/ai-photo-gallery)  
+- Developed **serverless AI-driven photo management**, reducing manual tagging by 90%.  
+- Demonstrates practical cloud-native **efficiency and automation** applied to real-world workflows.  
+
+**3. SoleStyle - Professional E-commerce Platform**  
+*Repository:* [SoloStyle](https://github.com/owuorviny109/SoloStyle.git)  
+- Modern e-commerce platform for **premium footwear**, built with React, TypeScript, and Tailwind CSS.  
+- Integrated **M-Pesa payment processing**, ensuring secure, seamless transactions.  
+- Delivered **business-grade user experience** with fast, accessible, and visually appealing UI.  
+
+---
+
+## Resume & Contact
+
+- [Download Resume PDF](./CV/Vincent_Owour_CV.pdf)  
 - **Email:** owuorvincent069@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/owuor-vincent-38b2b02ba  
-- **Portfolio:** https://owuorvincent.vercel.app  
-- **Credly:** https://www.credly.com/users/vincent-omondi.43720300
+- **LinkedIn:** [linkedin.com/in/owuor-vincent-38b2b02ba](https://www.linkedin.com/in/owuor-vincent-38b2b02ba)  
+- **Portfolio:** [owuorvincent.vercel.app](https://owuorvincent.vercel.app)  
+- **Credly:** [credly.com/users/vincent-omondi.43720300](https://www.credly.com/users/vincent-omondi.43720300)  
 
 ---
 
-<p align="center">💡 *Always building. Always improving. Always shipping.*</p>
- 
-
-<!--
-**owuorviny109/owuorviny109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Bring a **fresh, growth-oriented, secure, and results-driven mind** to your team. I am ready to deliver measurable impact from day one.</p>
