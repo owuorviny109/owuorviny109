@@ -17,9 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=owuorviny109&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-> **Note:** GitHub UI-only features, like the contribution radar with commit/PR percentages, cannot be fully embedded in README files. The above badges provide a live, dynamic approximation.
-
----
+ 
 
 ## Ever Wondered What a Fresh, Growth-Oriented Mind Could Do for Your Team?
 
