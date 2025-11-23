@@ -3,11 +3,21 @@
 
 ---
 
-## GitHub Stats
+## Profile Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owuorviny109&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owuorviny109&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=owuorviny109&color=blue" alt="Profile Views" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=owuorviny109&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owuorviny109&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owuorviny109&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+> **Note:** GitHub UI-only features, like the contribution radar with commit/PR percentages, cannot be fully embedded in README files. The above badges provide a live, dynamic approximation.
 
 ---
 
@@ -35,7 +45,7 @@ I bring a **growth mindset, security-first thinking, and a results-driven approa
 | **Databases** | SQL Server, MySQL, MongoDB, DynamoDB | ★★★★☆ |
 | **Security & Accessibility** | Secure-by-default design, WCAG 2.2 AA compliance | ★★★★☆ |
 
-> **Counts & visibility:** Each skill represents hands-on experience applied in real projects, delivering measurable results.
+> Each skill represents hands-on experience applied in real projects, delivering measurable results.
 
 ---
 
