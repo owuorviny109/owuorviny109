@@ -88,7 +88,7 @@ I bring a **growth mindset, security-first thinking, and a results-driven approa
 
 ## Contribution Activity
 
-![Vincent's Activity Graph](https://activity-graph.herokuapp.com/graph?username=owuorviny109&theme=react-dark&hide_border=true)
+![Vincent's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owuorviny109&theme=github-compact&hide_border=true)
 
 ---
 
@@ -97,7 +97,7 @@ I bring a **growth mindset, security-first thinking, and a results-driven approa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owuor-vincent-38b2b02ba)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://owuorvincent.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:owuorvincent069@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-Credentials-blue?style=flat-square&logo=credly&logoColor=white)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/vincent-omondi.43720300)
 
 - [Download Resume PDF](./CV/Vincent_Owour_CV.pdf)
 
