@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=owuorviny109&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
- 
+---
 
 ## Ever Wondered What a Fresh, Growth-Oriented Mind Could Do for Your Team?
 
@@ -34,6 +34,17 @@ I bring a **growth mindset, security-first thinking, and a results-driven approa
 ---
 
 ## Technologies & Tools
+
+<p align="center">
+  <!-- Skill badges -->
+  ![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat-square&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-13-black?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat-square&logo=node.js&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-1.5-purple?style=flat-square&logo=terraform&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-24-blue?style=flat-square&logo=docker&logoColor=white)
+</p>
 
 | Category | Tools & Skills | Level |
 |----------|----------------|-------|
@@ -67,13 +78,32 @@ I bring a **growth mindset, security-first thinking, and a results-driven approa
 
 ---
 
+## Pinned Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [SoloStyle](https://github.com/owuorviny109/SoloStyle) | Premium e-commerce platform | React, TypeScript, Tailwind, AWS |
+| [AI Photo Gallery](https://github.com/owuorviny109/ai-photo-gallery) | Serverless AI photo management | AWS Lambda, Node.js, S3 |
+| [Terraform 3-Tier Infra](https://github.com/owuorviny109/terraform-aws-web-tier-infra) | High-availability cloud infrastructure | Terraform, AWS, EC2, RDS |
+
+---
+
+## Contribution Activity
+
+![Vincent's Activity Graph](https://activity-graph.herokuapp.com/graph?username=owuorviny109&theme=react-dark&hide_border=true)
+
+---
+
 ## Resume & Contact
 
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owuor-vincent-38b2b02ba)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://owuorvincent.vercel.app)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:owuorvincent069@gmail.com)
+  [![Credly](https://img.shields.io/badge/Credly-Credentials-blue?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/vincent-omondi.43720300)
+</p>
+
 - [Download Resume PDF](./CV/Vincent_Owour_CV.pdf)  
-- **Email:** owuorvincent069@gmail.com  
-- **LinkedIn:** [linkedin.com/in/owuor-vincent-38b2b02ba](https://www.linkedin.com/in/owuor-vincent-38b2b02ba)  
-- **Portfolio:** [owuorvincent.vercel.app](https://owuorvincent.vercel.app)  
-- **Credly Verified Credentials:** [View Profile](https://www.credly.com/users/vincent-omondi.43720300)
 
 ---
 
