@@ -72,19 +72,19 @@
 
 ## Production-Ready Projects
 
-### 🏗️ Terraform AWS 3-Tier Infrastructure
+###  Terraform AWS 3-Tier Infrastructure
 *Repository: [terraform-aws-web-tier-infra](https://github.com/owuorviny109/terraform-aws-web-tier-infra)*  
 **Business Impact:** Enterprise-grade infrastructure that scales to millions of users  
 **Technical Achievement:** Automated provisioning reducing setup time from days to minutes  
 **Key Technologies:** Terraform, AWS EC2, RDS, VPC, Auto Scaling
 
-### 📸 AI Photo Gallery  
+###  AI Photo Gallery  
 *Repository: [ai-photo-gallery](https://github.com/owuorviny109/ai-photo-gallery)*  
 **Business Impact:** 90% reduction in manual photo management overhead  
 **Technical Achievement:** Serverless AI pipeline processing 5,000+ images  
 **Key Technologies:** AWS Lambda, S3, Rekognition, Node.js
 
-### 🛒 SoleStyle E-commerce Platform
+###  SoleStyle E-commerce Platform
 *Repository: [SoloStyle](https://github.com/owuorviny109/SoloStyle)*  
 **Business Impact:** Production-ready e-commerce with integrated payment processing  
 **Technical Achievement:** WCAG 2.2 AA compliant, TypeScript full-stack  
@@ -138,7 +138,6 @@ I'm seeking opportunities where I can:
 
 ---
 
-## The Bottom Line for Recruiters
 
 **Hiring junior talent is usually an investment. With me, it's an immediate asset.**
 
