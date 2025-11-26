@@ -8,7 +8,12 @@
 ## Profile Overview
 
 <p align="center">
-  <!-- Profile Views Counter -->
+  <!-- The Cross/Spider Chart (Using RAW link to fix broken image) -->
+  <img src="https://raw.githubusercontent.com/owuorviny109/owuorviny109/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=owuorviny109&color=blue&style=for-the-badge" alt="Profile Views" />
   
   <!-- GitHub Followers -->
@@ -16,13 +21,8 @@
     <img src="https://img.shields.io/github/followers/owuorviny109?style=for-the-badge&logo=github&label=Followers&color=orange" alt="Followers" />
   </a>
 
-  <!-- GitHub Stars -->
-  <a href="https://github.com/owuorviny109?tab=repositories">
-    <img src="https://img.shields.io/github/stars/owuorviny109?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="Total Stars" />
-  </a>
-
-  <!-- GitHub Activity Graph -->
-  ![Vincent's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owuorviny109&theme=github-compact&hide_border=true&area=true)
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=owuorviny109&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
