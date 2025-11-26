@@ -8,10 +8,17 @@
 ## Profile Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=owuorviny109&color=blue" alt="Profile Views" />
-  <img src="https://github-readme-stats.vercel.app/api?username=owuorviny109&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owuorviny109&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owuorviny109&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Profile Views (static placeholder as Shields.io) -->
+  ![Profile Views](https://img.shields.io/badge/Profile_Views-Tracking-blue)
+  
+  <!-- GitHub Stats -->
+  ![GitHub Stats](https://img.shields.io/github/stars/owuorviny109?style=for-the-badge&logo=github)
+  
+  <!-- Top Language -->
+  ![Top Language](https://img.shields.io/github/languages/top/owuorviny109?style=for-the-badge)
+  
+  <!-- Streak placeholder -->
+  ![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-Up_green)
 </p>
 
 ---
@@ -94,7 +101,7 @@
 
 ## Activity & Contributions
 
-![Vincent's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owuorviny109&theme=github-compact&hide_border=true&area=true)
+![Vincent's GitHub Activity Graph](https://img.shields.io/badge/GitHub_Activity-Up_green)
 
 ---
 
@@ -138,13 +145,12 @@ I'm seeking opportunities where I can:
 
 ---
 
-
 **Hiring junior talent is usually an investment. With me, it's an immediate asset.**
 
 Instead of requiring constant hand-holding, I bring a senior-level focus on **business outcomes** and **infrastructure costs**:
 
-1. **I don't just write code; I solve problems.** I understand that a beautiful function is useless if it bankrupts the cloud budget.
-2. **I ship to production.** My portfolio isn't full of "Hello World" apps—it's full of deployed, secure, and documented solutions.
+1. **I don't just write code; I solve problems.** I understand that a beautiful function is useless if it bankrupts the cloud budget.  
+2. **I ship to production.** My portfolio isn't full of "Hello World" apps—it's full of deployed, secure, and documented solutions.  
 3. **I communicate.** I bridge the gap between complex backend logic and business goals.
 
 **Let's prove it.** I'm ready for a technical interview anytime.
