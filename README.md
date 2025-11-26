@@ -20,28 +20,31 @@
   <a href="https://github.com/owuorviny109?tab=repositories">
     <img src="https://img.shields.io/github/stars/owuorviny109?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="Total Stars" />
   </a>
+
+  <!-- GitHub Activity Graph -->
+  ![Vincent's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=owuorviny109&theme=github-compact&hide_border=true&area=true)
 </p>
 
 ---
 
 ## Why Hire Me? The Business Case
 
-**You're not just hiring a developer - you're investing in a growth engine.** While I may be early in my career, I deliver senior-level thinking with junior-level enthusiasm. Here's what that means for your business:
+**You're not just hiring a developer - you're investing in a growth engine.** I deliver senior-level thinking with junior-level enthusiasm:
 
 ### Immediate Value Delivery
-- **Accelerated Ramp-up** - Quick adaptation to new codebases and cloud infrastructure
-- **Production-ready code** - Day one delivery with security-first principles
-- **Cost optimization mindset** - I build efficient, scalable solutions that save money
+- **Accelerated Ramp-up** – Quick adaptation to new codebases and cloud infrastructure
+- **Production-ready code** – Day-one delivery with security-first principles
+- **Cost optimization mindset** – Efficient, scalable solutions that reduce expenses
 
 ### The Fresh Perspective Advantage
-- **Clean Architecture Focus** - I build maintainable systems that scale
-- **Latest tech stack proficiency** - Modern tools, current best practices
-- **Growth multiplier** - I learn rapidly and elevate team capabilities
+- **Clean Architecture Focus** – Maintainable systems designed to scale
+- **Latest tech stack proficiency** – Modern tools, current best practices
+- **Growth multiplier** – Rapid learning elevating team capabilities
 
 ### Risk Mitigation
-- **AWS Certified** - Proven cloud infrastructure knowledge
-- **Security-by-default** - Every solution built with compliance in mind
-- **Documentation focused** - Clear, maintainable code and systems
+- **AWS Certified** – Cloud infrastructure knowledge verified
+- **Security-by-default** – Built with compliance in mind
+- **Documentation focused** – Clear, maintainable code and systems
 
 ---
 
@@ -80,19 +83,19 @@
 
 ## Production-Ready Projects
 
-###  Terraform AWS 3-Tier Infrastructure
+### Terraform AWS 3-Tier Infrastructure
 *Repository: [terraform-aws-web-tier-infra](https://github.com/owuorviny109/terraform-aws-web-tier-infra)*  
 **Business Impact:** Enterprise-grade infrastructure that scales to millions of users  
 **Technical Achievement:** Automated provisioning reducing setup time from days to minutes  
 **Key Technologies:** Terraform, AWS EC2, RDS, VPC, Auto Scaling
 
-###  AI Photo Gallery  
+### AI Photo Gallery  
 *Repository: [ai-photo-gallery](https://github.com/owuorviny109/ai-photo-gallery)*  
 **Business Impact:** 90% reduction in manual photo management overhead  
 **Technical Achievement:** Serverless AI pipeline processing 5,000+ images  
 **Key Technologies:** AWS Lambda, S3, Rekognition, Node.js
 
-###  SoleStyle E-commerce Platform
+### SoleStyle E-commerce Platform
 *Repository: [SoloStyle](https://github.com/owuorviny109/SoloStyle)*  
 **Business Impact:** Production-ready e-commerce with integrated payment processing  
 **Technical Achievement:** WCAG 2.2 AA compliant, TypeScript full-stack  
@@ -102,15 +105,15 @@
 
 ## What I'm Looking For
 
-I'm seeking opportunities where I can:
+Opportunities where I can:
 
-- **Build and scale** cloud-native applications that solve real business problems  
-- **Collaborate** with experienced engineers to accelerate my growth  
-- **Contribute** to projects with meaningful impact and modern tech stacks  
-- **Learn and apply** best practices in cloud security and DevOps
+- **Build and scale** cloud-native applications solving real business problems  
+- **Collaborate** with experienced engineers to accelerate growth  
+- **Contribute** to impactful projects with modern tech stacks  
+- **Learn and apply** cloud security and DevOps best practices
 
 **Ideal Roles:** Junior Cloud Engineer • Full-Stack Developer • DevOps Engineer  
-**Location Preference:** Remote • Hybrid • Nairobi, Kenya  
+**Location:** Remote • Hybrid • Nairobi, Kenya  
 **Availability:** Immediate
 
 ---
@@ -142,15 +145,13 @@ I'm seeking opportunities where I can:
 
 ## The Bottom Line for Recruiters
 
-**Hiring junior talent is usually an investment. With me, it's an immediate asset.**
+**Hiring junior talent is usually an investment. With me, it's an immediate asset.**  
 
-Instead of requiring constant hand-holding, I bring a senior-level focus on **business outcomes** and **infrastructure costs**:
+1. **I don't just write code; I solve problems.** Functions that bankrupt your cloud budget are avoided.  
+2. **I ship to production.** Portfolio contains deployed, secure, and documented solutions.  
+3. **I communicate.** I bridge complex backend logic with business goals.
 
-1. **I don't just write code; I solve problems.** I understand that a beautiful function is useless if it bankrupts the cloud budget.
-2. **I ship to production.** My portfolio isn't full of "Hello World" apps—it's full of deployed, secure, and documented solutions.
-3. **I communicate.** I bridge the gap between complex backend logic and business goals.
-
-**Let's prove it.** I'm ready for a technical interview anytime.
+**Ready to prove value.** Open for technical interviews anytime.
 
 ---
 
