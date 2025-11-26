@@ -21,12 +21,12 @@
 **You're not just hiring a developer - you're investing in a growth engine.** While I may be early in my career, I deliver senior-level thinking with junior-level enthusiasm. Here's what that means for your business:
 
 ### Immediate Value Delivery
-- **48-hour ramp-up** on new codebases and cloud infrastructure
-- **Production-ready code** from day one with security-first principles
+- **Accelerated Ramp-up** - Quick adaptation to new codebases and cloud infrastructure
+- **Production-ready code** - Day one delivery with security-first principles
 - **Cost optimization mindset** - I build efficient, scalable solutions that save money
 
 ### The Fresh Perspective Advantage
-- **Zero technical debt bias** - I build clean, maintainable systems from the start
+- **Clean Architecture Focus** - I build maintainable systems that scale
 - **Latest tech stack proficiency** - Modern tools, current best practices
 - **Growth multiplier** - I learn rapidly and elevate team capabilities
 
@@ -56,10 +56,10 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-Automation-green?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Full-Stack Proficiency
-![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-13-black?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-Library-blue?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-green?style=for-the-badge&logo=node.js&logoColor=white)
 
 | Domain | Core Competencies | Business Value |
 |--------|------------------|----------------|
@@ -72,19 +72,19 @@
 
 ## Production-Ready Projects
 
-### Terraform AWS 3-Tier Infrastructure
+### 🏗️ Terraform AWS 3-Tier Infrastructure
 *Repository: [terraform-aws-web-tier-infra](https://github.com/owuorviny109/terraform-aws-web-tier-infra)*  
 **Business Impact:** Enterprise-grade infrastructure that scales to millions of users  
 **Technical Achievement:** Automated provisioning reducing setup time from days to minutes  
 **Key Technologies:** Terraform, AWS EC2, RDS, VPC, Auto Scaling
 
-### AI Photo Gallery  
+### 📸 AI Photo Gallery  
 *Repository: [ai-photo-gallery](https://github.com/owuorviny109/ai-photo-gallery)*  
 **Business Impact:** 90% reduction in manual photo management overhead  
 **Technical Achievement:** Serverless AI pipeline processing 5,000+ images  
 **Key Technologies:** AWS Lambda, S3, Rekognition, Node.js
 
-### SoleStyle E-commerce Platform
+### 🛒 SoleStyle E-commerce Platform
 *Repository: [SoloStyle](https://github.com/owuorviny109/SoloStyle)*  
 **Business Impact:** Production-ready e-commerce with integrated payment processing  
 **Technical Achievement:** WCAG 2.2 AA compliant, TypeScript full-stack  
@@ -131,7 +131,7 @@ I'm seeking opportunities where I can:
 </p>
 
 <p align="center">
-  <a href="./CV/Vincent_Owour_CV.pdf">
+  <a href="./CV/Vincent_Owuor_CV.pdf">
     <img src="https://img.shields.io/badge/Download_Full_Resume-Click_Here-8A2BE2?style=for-the-badge" />
   </a>
 </p>
@@ -140,12 +140,13 @@ I'm seeking opportunities where I can:
 
 ## The Bottom Line for Recruiters
 
-**You have two choices when hiring junior talent:**
+**Hiring junior talent is usually an investment. With me, it's an immediate asset.**
 
-1. **The traditional junior** - Needs constant supervision, creates technical debt, slow to deliver
-2. **Me** - AWS-certified, business-focused, delivers production-ready code from day one
+Instead of requiring constant hand-holding, I bring a senior-level focus on **business outcomes** and **infrastructure costs**:
 
-**I don't just write code - I solve business problems.** My cloud infrastructure skills can save your company thousands in AWS costs. My full-stack capabilities can ship features faster. My security mindset reduces your compliance risk.
+1. **I don't just write code; I solve problems.** I understand that a beautiful function is useless if it bankrupts the cloud budget.
+2. **I ship to production.** My portfolio isn't full of "Hello World" apps—it's full of deployed, secure, and documented solutions.
+3. **I communicate.** I bridge the gap between complex backend logic and business goals.
 
 **Let's prove it.** I'm ready for a technical interview anytime.
 
