@@ -8,15 +8,17 @@
 ## Profile Overview
 
 <p align="center">
-  <!-- Reliable Shields.io Badges (These will not break) -->
-  <a href="https://github.com/owuorviny109">
-    <img src="https://img.shields.io/github/followers/owuorviny109?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=owuorviny109&color=blue&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- GitHub Followers -->
+  <a href="https://github.com/owuorviny109?tab=followers">
+    <img src="https://img.shields.io/github/followers/owuorviny109?style=for-the-badge&logo=github&label=Followers&color=orange" alt="Followers" />
   </a>
+
+  <!-- GitHub Stars -->
   <a href="https://github.com/owuorviny109?tab=repositories">
-    <img src="https://img.shields.io/github/public-repos/owuorviny109?label=Public%20Repos&style=for-the-badge&color=orange&logo=github" alt="Repos" />
-  </a>
-  <a href="https://github.com/owuorviny109">
-    <img src="https://img.shields.io/github/stars/owuorviny109?style=for-the-badge&color=yellow&logo=github" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/owuorviny109?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="Total Stars" />
   </a>
 </p>
 
