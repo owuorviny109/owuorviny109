@@ -8,17 +8,16 @@
 ## Profile Overview
 
 <p align="center">
-  <!-- Profile Views (static placeholder as Shields.io) -->
-  ![Profile Views](https://img.shields.io/badge/Profile_Views-Tracking-blue)
-  
-  <!-- GitHub Stats -->
-  ![GitHub Stats](https://img.shields.io/github/stars/owuorviny109?style=for-the-badge&logo=github)
-  
-  <!-- Top Language -->
-  ![Top Language](https://img.shields.io/github/languages/top/owuorviny109?style=for-the-badge)
-  
-  <!-- Streak placeholder -->
-  ![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-Up_green)
+  <!-- Reliable Shields.io Badges (These will not break) -->
+  <a href="https://github.com/owuorviny109">
+    <img src="https://img.shields.io/github/followers/owuorviny109?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/owuorviny109?tab=repositories">
+    <img src="https://img.shields.io/github/public-repos/owuorviny109?label=Public%20Repos&style=for-the-badge&color=orange&logo=github" alt="Repos" />
+  </a>
+  <a href="https://github.com/owuorviny109">
+    <img src="https://img.shields.io/github/stars/owuorviny109?style=for-the-badge&color=yellow&logo=github" alt="Stars" />
+  </a>
 </p>
 
 ---
@@ -79,29 +78,23 @@
 
 ## Production-Ready Projects
 
-###  Terraform AWS 3-Tier Infrastructure
+### 🏗️ Terraform AWS 3-Tier Infrastructure
 *Repository: [terraform-aws-web-tier-infra](https://github.com/owuorviny109/terraform-aws-web-tier-infra)*  
 **Business Impact:** Enterprise-grade infrastructure that scales to millions of users  
 **Technical Achievement:** Automated provisioning reducing setup time from days to minutes  
 **Key Technologies:** Terraform, AWS EC2, RDS, VPC, Auto Scaling
 
-###  AI Photo Gallery  
+### 📸 AI Photo Gallery  
 *Repository: [ai-photo-gallery](https://github.com/owuorviny109/ai-photo-gallery)*  
 **Business Impact:** 90% reduction in manual photo management overhead  
 **Technical Achievement:** Serverless AI pipeline processing 5,000+ images  
 **Key Technologies:** AWS Lambda, S3, Rekognition, Node.js
 
-###  SoleStyle E-commerce Platform
+### 🛒 SoleStyle E-commerce Platform
 *Repository: [SoloStyle](https://github.com/owuorviny109/SoloStyle)*  
 **Business Impact:** Production-ready e-commerce with integrated payment processing  
 **Technical Achievement:** WCAG 2.2 AA compliant, TypeScript full-stack  
 **Key Technologies:** React, TypeScript, Tailwind, M-Pesa API
-
----
-
-## Activity & Contributions
-
-![Vincent's GitHub Activity Graph](https://img.shields.io/badge/GitHub_Activity-Up_green)
 
 ---
 
@@ -145,12 +138,14 @@ I'm seeking opportunities where I can:
 
 ---
 
+## The Bottom Line for Recruiters
+
 **Hiring junior talent is usually an investment. With me, it's an immediate asset.**
 
 Instead of requiring constant hand-holding, I bring a senior-level focus on **business outcomes** and **infrastructure costs**:
 
-1. **I don't just write code; I solve problems.** I understand that a beautiful function is useless if it bankrupts the cloud budget.  
-2. **I ship to production.** My portfolio isn't full of "Hello World" apps—it's full of deployed, secure, and documented solutions.  
+1. **I don't just write code; I solve problems.** I understand that a beautiful function is useless if it bankrupts the cloud budget.
+2. **I ship to production.** My portfolio isn't full of "Hello World" apps—it's full of deployed, secure, and documented solutions.
 3. **I communicate.** I bridge the gap between complex backend logic and business goals.
 
 **Let's prove it.** I'm ready for a technical interview anytime.
