@@ -92,7 +92,7 @@
 ## Production-Ready Projects
 
 ### Cloud-Native Portfolio & AI Agent (NEW)
-*Live Site: [owuorvincent.vercel.app](https://owuorvincent.vercel.app/)*  
+*Repository: [cloud-portfolio](https://github.com/owuorviny109/cloud-portfolio) | Live Site: [owuorvincent.vercel.app](https://owuorvincent.vercel.app/)* 
 **Business Impact:** Automated technical screening and 24/7 engagement using a custom-trained AI Agent.  
 **Technical Achievement:** Implemented **React 19** architecture with **Vercel Edge Functions** to securely proxy Google Gemini API requests.  
 **Key Technologies:** React 19, TypeScript, Google Gemini AI, Framer Motion, Serverless.
