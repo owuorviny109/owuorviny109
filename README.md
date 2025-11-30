@@ -25,6 +25,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=owuorviny109&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+<!-- 🔥 NEW: CALL TO ACTION FOR THE AI PORTFOLIO -->
+<p align="center">
+  <a href="https://owuorvincent.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_PROJECT-Chat_With_My_AI_Agent-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Talk to my AI" />
+  </a>
+</p>
+
 ---
 
 ## Why Hire Me? The Business Case
@@ -52,6 +59,7 @@
 
 | Project | Business Impact | Technical Achievement |
 |---------|-----------------|----------------------|
+| **AI Cloud Portfolio** | **Automated Recruitment** • 24/7 technical screening via AI Agent | Integrated **Gemini LLM** with Vercel Edge Functions |
 | **Terraform 3-Tier Infrastructure** | 70% faster deployments • 90% reduction in config errors | High-availability architecture serving 10k+ users |
 | **AI Photo Gallery** | 90% reduction in manual work • 5,000+ images processed | Serverless AI automation cutting costs by 60% |
 | **SoleStyle E-commerce** | Integrated payment processing • 99% uptime | Modern React/TypeScript stack with WCAG 2.2 AA compliance |
@@ -82,6 +90,12 @@
 ---
 
 ## Production-Ready Projects
+
+### 🚀 Cloud-Native Portfolio & AI Agent (NEW)
+*Repository: [cloud-portfolio](https://github.com/owuorviny109/cloud-portfolio) | Live Site: [owuorvincent.vercel.app](https://owuorvincent.vercel.app/)*  
+**Business Impact:** Automated technical screening and 24/7 engagement using a custom-trained AI Agent.  
+**Technical Achievement:** Implemented **React 19** architecture with **Vercel Edge Functions** to securely proxy Google Gemini API requests.  
+**Key Technologies:** React 19, TypeScript, Google Gemini AI, Framer Motion, Serverless.
 
 ### Terraform AWS 3-Tier Infrastructure
 *Repository: [terraform-aws-web-tier-infra](https://github.com/owuorviny109/terraform-aws-web-tier-infra)*  
