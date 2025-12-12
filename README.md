@@ -35,8 +35,8 @@ Founder & Lead Builder at [ServerlessNexus](https://www.serverlessnexus.co.ke/),
 
 **Tech Stack:** Django 6.0, Python, PostgreSQL, Bootstrap 5, Vercel, Cloudinary.
 
-### [🦁 SafariSmart Kenya](https://safarismart.onrender.com/)
-**Live Site:** [https://safarismart.onrender.com/](https://safarismart.onrender.com/)
+### [🦁 SafariSmart Kenya](https://safari-smart.vercel.app/)
+**Live Site:** [https://safari-smart.vercel.app/](https://safari-smart.vercel.app/)
 
 **What it does:** An AI-powered travel planning engine that revolutionizes how tourists book safaris in Kenya. It integrates Google Gemini AI to generate personalized itineraries based on user budget and preferences in real-time. Features a seamless multi-step booking wizard and interactive itinerary management.
 
