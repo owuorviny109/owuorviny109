@@ -1,6 +1,5 @@
 # Vincent Omondi Owuor
-
-**AWS Certified Cloud Practitioner | Architecting Resilient Systems for 20K+ Concurrent Users**
+Cloud (AWS) · Distributed Systems · Reliability & Troubleshooting
 
 Building fault-tolerant distributed systems with Failure-First Architecture. Focused on solving production-scale challenges: network partitions, race conditions, and consistency trade-offs. Hands-on with AWS infrastructure, serverless patterns, and IT support.
 
