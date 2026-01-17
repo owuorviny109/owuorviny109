@@ -1,7 +1,34 @@
-# Vincent Omondi Owuor
-Cloud (AWS) · Distributed Systems · Reliability & Troubleshooting
+I like working with cloud platforms and distributed systems, especially how software behaves under failure, latency, and dependency constraints. I enjoy understanding how different pieces interact and how reliability emerges (or fails) from those interactions.
 
-Building fault-tolerant distributed systems with Failure-First Architecture. Focused on solving production-scale challenges: network partitions, race conditions, and consistency trade-offs. Hands-on with AWS infrastructure, serverless patterns, and IT support.
+𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬
+AWS infrastructure (serverless, IAM, networking, observability)
+Troubleshooting & support workflows
+Distributed systems basics
+Reliability concepts (retries, timeouts, idempotency, backpressure, eventual consistency)
+
+𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐒𝐤𝐢𝐥𝐥𝐬
+AWS (Lambda, DynamoDB, S3, CloudFront, IAM)
+Linux + networking basics
+Python / Node.js / TypeScript /C# 
+Logging, error handling, system interactions
+
+𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐫𝐞 𝐀𝐛𝐨𝐮𝐭
+System correctness
+Clarity during failures
+Cost-aware cloud design
+Good user experience under degraded conditions
+
+𝐑𝐨𝐥𝐞𝐬 𝐈’𝐦 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠
+Cloud Support
+Technical Support
+IT Support
+Junior Cloud Engineering
+
+𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬 𝐈 𝐄𝐧𝐣𝐨𝐲
+Learning-driven teams
+Clear documentation & communication
+Reliability-minded engineering culture
+Steady improvement
 
 ---
 
