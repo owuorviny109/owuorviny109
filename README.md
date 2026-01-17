@@ -1,34 +1,47 @@
-I like working with cloud platforms and distributed systems, especially how software behaves under failure, latency, and dependency constraints. I enjoy understanding how different pieces interact and how reliability emerges (or fails) from those interactions.
+<p>
+  I like working with cloud platforms and distributed systems, especially how software behaves under failure, latency, and dependency constraints. 
+  I enjoy understanding how different pieces interact and how reliability emerges (or fails) from those interactions.
+</p>
 
-𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬:
-AWS infrastructure (serverless, IAM, networking, observability)
-Troubleshooting & support workflows
-Distributed systems basics
-Reliability concepts (retries, timeouts, idempotency, backpressure, eventual consistency)
+<h3>𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬:</h3>
+<ul>
+  <li>AWS infrastructure (serverless, IAM, networking, observability)</li>
+  <li>Troubleshooting &amp; support workflows</li>
+  <li>Distributed systems basics</li>
+  <li>Reliability concepts (retries, timeouts, idempotency, backpressure, eventual consistency)</li>
+</ul>
 
-𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐒𝐤𝐢𝐥𝐥𝐬:
-AWS (Lambda, DynamoDB, S3, CloudFront, IAM)
-Linux + networking basics
-Python / Node.js / TypeScript /C# 
-Logging, error handling, system interactions
+<h3>𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
+<ul>
+  <li>AWS (Lambda, DynamoDB, S3, CloudFront, IAM)</li>
+  <li>Linux + networking basics</li>
+  <li>Python / Node.js / TypeScript / C#</li>
+  <li>Logging, error handling, system interactions</li>
+</ul>
 
-𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐫𝐞 𝐀𝐛𝐨𝐮𝐭:
-System correctness
-Clarity during failures
-Cost-aware cloud design
-Good user experience under degraded conditions
+<h3>𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐫𝐞 𝐀𝐛𝐨𝐮𝐭:</h3>
+<ul>
+  <li>System correctness</li>
+  <li>Clarity during failures</li>
+  <li>Cost-aware cloud design</li>
+  <li>Good user experience under degraded conditions</li>
+</ul>
 
-𝐑𝐨𝐥𝐞𝐬 𝐈’𝐦 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠:
-Cloud Support
-Technical Support
-IT Support
-Junior Cloud Engineering
+<h3>𝐑𝐨𝐥𝐞𝐬 𝐈’𝐦 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠:</h3>
+<ul>
+  <li>Cloud Support</li>
+  <li>Technical Support</li>
+  <li>IT Support</li>
+  <li>Junior Cloud Engineering</li>
+</ul>
 
-𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬 𝐈 𝐄𝐧𝐣𝐨𝐲:
-Learning-driven teams
-Clear documentation & communication
-Reliability-minded engineering culture
-Steady improvement
+<h3>𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬 𝐈 𝐄𝐧𝐣𝐨𝐲:</h3>
+<ul>
+  <li>Learning-driven teams</li>
+  <li>Clear documentation &amp; communication</li>
+  <li>Reliability-minded engineering culture</li>
+  <li>Steady improvement</li>
+</ul>
 
 ---
 
