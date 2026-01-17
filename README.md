@@ -33,6 +33,7 @@
   <li>Technical Support</li>
   <li>IT Support</li>
   <li>Junior Cloud Engineering</li>
+  <li>Junior Software Development</li>
 </ul>
 
 <h3>𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬 𝐈 𝐄𝐧𝐣𝐨𝐲:</h3>
