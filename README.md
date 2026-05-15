@@ -6,6 +6,7 @@
 <h3>𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐅𝐨𝐜𝐮𝐬:</h3>
 <ul>
   <li>AWS infrastructure (serverless, IAM, networking, observability)</li>
+  <li>Generative AI &amp; Foundation Models (AWS Bedrock)</li>
   <li>Troubleshooting &amp; support workflows</li>
   <li>Distributed systems basics</li>
   <li>Reliability concepts (retries, timeouts, idempotency, backpressure, eventual consistency)</li>
@@ -13,7 +14,8 @@
 
 <h3>𝐇𝐚𝐧𝐝𝐬-𝐎𝐧 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
 <ul>
-  <li>AWS (Lambda, DynamoDB, S3, CloudFront, IAM)</li>
+  <li>AWS (Lambda, DynamoDB, S3, CloudFront, IAM, Bedrock)</li>
+  <li>Prompt Engineering &amp; AI Governance</li>
   <li>Linux + networking basics</li>
   <li>Python / Node.js / TypeScript / C#</li>
   <li>Logging, error handling, system interactions</li>
@@ -22,6 +24,7 @@
 <h3>𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐫𝐞 𝐀𝐛𝐨𝐮𝐭:</h3>
 <ul>
   <li>System correctness</li>
+  <li>Responsible AI &amp; Ethics</li>
   <li>Clarity during failures</li>
   <li>Cost-aware cloud design</li>
   <li>Good user experience under degraded conditions</li>
@@ -48,6 +51,18 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/owuorviny109/owuorviny109/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+---
+
+<h3 align="center">𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬</h3>
+<p align="center">
+  <a href="https://www.credly.com/badges/190cbfba-922a-4ff8-916b-929ef0c38034/public_url">
+    <img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-blue?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/vincent-omondi.43720300">
+    <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
 </p>
 
 ---
