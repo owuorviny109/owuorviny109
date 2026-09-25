@@ -1,44 +1,44 @@
 <h1 align="center">Vincent Omondi Owuor</h1>
 
 <p align="center">
-  <strong>Customer Agent @ d.light &nbsp;·&nbsp; Junior Software Engineer @ Pronic™</strong>
+  <strong>Customer Agent @ d.light &nbsp;&middot;&nbsp; Junior Software Engineer @ Pronic&trade;</strong>
 </p>
 
 ---
 
 <p align="center">
-  I operate at the intersection of people and systems.<br/>
-  By day I keep solar PAYGO customers operational when things go wrong.<br/>
-  By night I ship production features that real landlords and tenants depend on.<br/>
-  I don't wait for perfect conditions — I deliver under real ones.
+  I work in customer operations at d.light and software engineering at Pronic&trade;.<br/>
+  Both roles involve systems that real people depend on daily,<br/>
+  so correctness and reliability matter more than moving fast.
 </p>
 
 ---
 
-<h3>⚡ What I Deliver</h3>
+<h3>What I Do</h3>
 <ul>
   <li>
-    <strong>@ d.light</strong> — I'm the resolution layer between a frustrated customer and a dark home.
-    When hardware fails, CRM breaks, or escalations pile up, I diagnose, own, and close.
+    <strong>At d.light</strong> &mdash; I handle technical support for solar PAYGO customers.
+    That means diagnosing hardware issues, managing escalations through CRM workflows,
+    and making sure cases are resolved, not just closed.
   </li>
   <li>
-    <strong>@ Pronic™</strong> — I ship features for Livio that real people trust with their rent,
-    their leases, and their livelihoods. Production isn't a phase — it's the baseline.
+    <strong>At Pronic&trade;</strong> &mdash; I build and maintain features for Livio,
+    a property management platform used by landlords and tenants in Kenya.
+    The work is production-grade and the users are real.
   </li>
   <li>
-    <strong>Across both</strong> — I bring the same discipline to a support ticket as to a system design:
-    understand the failure, trace the root, fix it durably.
+    <strong>At Masinde Muliro University</strong> &mdash; Completing a B.Sc. in Information Technology, expected December 2026.
   </li>
 </ul>
 
 ---
 
-<h3>🧭 What I Care About</h3>
+<h3>What I Care About</h3>
 <ul>
-  <li>Systems that hold under pressure — not just in demos</li>
-  <li>Users who never notice the engineering because it just works</li>
-  <li>Reliability that earns trust incrementally, then compounds</li>
-  <li>Responsible AI — powerful tools, used with intention</li>
+  <li>Systems that work reliably, not just under ideal conditions</li>
+  <li>Being genuinely useful to the person on the other end of the interface</li>
+  <li>Understanding why something failed before declaring it fixed</li>
+  <li>AI that is used carefully, not just used</li>
 </ul>
 
 ---
@@ -68,19 +68,18 @@
 ---
 
 <p align="center">
-  <em>For the full picture — projects, architecture decisions, and the AI chatbot that knows my stack —</em><br/>
-  <strong>the portfolio is where to go.</strong>
+  Projects, stack details, and more are on my portfolio.
 </p>
 
 <p align="center">
   <a href="https://owuorvincent.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Full_Picture-black?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-owuorvincent.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/owuor-vincent-38b2b02ba">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:owuorvincent069@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-owuorvincent069@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.credly.com/users/vincent-omondi.43720300">
     <img src="https://img.shields.io/badge/Credly-Verify-orange?style=for-the-badge&logo=credly&logoColor=white" />
